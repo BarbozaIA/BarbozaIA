@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BarbozaIAa 
-- 👀 I’m interested in development
-- 🌱 I’m currently learning HTML, CSS, JS, GIT, GITHUB...
-- 💞️ I’m looking to collaborate on app and software dev
+- 👀 I am interested in IT project management.
+- 🌱 I have knowledge in Responsive Web Design, HTML, CSS, JavaScript, Java, and I'm currently learning Python for data."
+- 💞️ I'm looking to collaborate on IT projects for app and software development
 - 📫 How to reach me tgbarboza@gmail.com or +55 21 980702349
 
 
