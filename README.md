@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @BarbozaIAa 
+- 👋 Hi, I’m @BarbozaIAa
+- 👀I am currently a lawyer and a volunteer analyst in IT projects at PMI
 - 👀 I am interested in IT project management.
 - 🌱 I have knowledge in Responsive Web Design, HTML, CSS, JavaScript, Java, and I'm currently learning Python for data."
 - 💞️ I'm looking to collaborate on IT projects for app and software development
